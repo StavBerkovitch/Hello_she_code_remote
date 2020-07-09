@@ -1,1 +1,5 @@
-print("Hello World")
+def printText(text):
+    print(text)
+
+
+printText("Hi My Name is Stav")
