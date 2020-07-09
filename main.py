@@ -10,3 +10,4 @@ def printInputText(string="Stav"):
 
 printText("Hi My Name is Stav")
 printInputText()
+print("New Sting")
