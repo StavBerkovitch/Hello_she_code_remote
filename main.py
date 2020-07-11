@@ -1,4 +1,4 @@
-#Main File Print - New Conflict Changing
+# Main Python File
 
 def printText(text):
     print(text)
@@ -11,4 +11,4 @@ def printInputText(string="Stav"):
 printText("Hi My Name is Stav")
 printInputText()
 print("Learn Conflict Merge")
-# New Note For Commit 
+# New Note For Commit
