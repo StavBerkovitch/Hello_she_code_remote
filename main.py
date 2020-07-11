@@ -4,7 +4,7 @@ def printText(text):
     print(text)
 
 
-def printInputText(string="Stav"):
+def printInputText(string="Hello World"):
     print(string)
 
 
