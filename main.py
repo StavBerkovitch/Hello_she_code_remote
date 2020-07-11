@@ -10,5 +10,5 @@ def printInputText(string="Stav"):
 
 printText("Hi My Name is Stav")
 printInputText()
-print("New Sting")
+print("My Local Changing in Python File")
 # New Note For Commit 
