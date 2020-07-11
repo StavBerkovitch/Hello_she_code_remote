@@ -10,5 +10,5 @@ def printInputText(string="Stav"):
 
 printText("Hi My Name is Stav")
 printInputText()
-print("New Sting")
+print("Learn Conflict Merge")
 # New Note For Commit 
