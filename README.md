@@ -1,6 +1,6 @@
 # Foobar
 
-My Local Changed in file. 
+My New Conflict
 
 ## Installation
 
